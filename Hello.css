@@ -1,0 +1,56 @@
+@charset "UTF-8";
+body {
+   margin: 0px;
+   padding: 0px;
+   margin-top:
+}
+
+.header-bg{
+
+    width: 100%;
+    height: 80px;
+    background-color: #F0AFCF;
+    padding:20px 0px;
+
+}
+.header{
+    margin: auto;
+    max-width:800px;
+}
+.header-logo img{
+
+    width: 200px;
+    float: left;
+    padding-bottom: : 20px;
+}
+.header-list{
+    float: right;
+    padding: 0px 10px;
+}
+li{
+    font-family: "Avenir Next";
+    list-style: none;
+    font-size: 30px;
+    float: left;
+    padding: 0px 20px;
+}
+body{
+    color: #F0F1F5;
+    background: url(a2.gif) center top / cover  ;
+
+
+}
+.T-2, .T-4{
+    font-style: italic;
+    font-size: 100px;
+}
+.T-2{
+    background-color:#1955B7;
+    font-family:'Haettenschweiler';
+    color: #FFF033;
+}
+.T-4{
+    background-color:#EA4C89;
+    font-family:'Mali', cursive;
+    color: #F0F1F5;
+}
